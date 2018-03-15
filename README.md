@@ -1,2 +1,2 @@
-# Checker-Email-PayPal
-Team-Moroccan-Experience
+# -Checker-Email-PayPal
+By the party SQaYlOuS SoUtH
